@@ -1,0 +1,25 @@
+
+/* External CSS example */
+
+body {
+    background-color: #f4f7fb;
+}
+
+/* Class selector */
+.external-heading {
+    color: purple;
+    text-align: center;
+}
+
+/* Descendant selector */
+footer p {
+    font-size: 14px;
+}
+
+/* Border and margin */
+.external-box {
+    border: 2px solid purple;
+    border-radius: 8px;
+    margin: 15px;
+    padding: 15px;
+}
